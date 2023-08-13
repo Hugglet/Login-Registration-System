@@ -1,0 +1,6 @@
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.vcxproj.AssemblyReference.cache
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.LoginForm.resources
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.vcxproj.GenerateResource.cache
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.MainForm.resources
+C:\Projects\MyProject\MyProject\x64\Debug\MyProject.RegisterForm.resources
